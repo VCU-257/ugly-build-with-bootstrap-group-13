@@ -26,4 +26,5 @@ I used AI to help me figure out what was going on. The AI and I were both confus
 
 ## 5. Live Site Link
 *Provide the GitHub Pages link to the specific page(s) you built.*
-* **Live URL:** [Insert Link Here]
+My page is not live anymore but here is the link to the character page under my commit.
+* **Live URL:** [https://github.com/VCU-257/ugly-build-with-bootstrap-group-13/blob/9be9afaef300b2f9701aa789e2737b21c869603b/CharacterPage.html]
